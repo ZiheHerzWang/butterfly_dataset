@@ -4,19 +4,19 @@ This repository provides a dataset for butterfly species classification and segm
 
 ## Dataset Structure
 
-### `Major_species_data/`
+### `Major_species_data`
 - Contains data for major butterfly species and hybrids.
 - Subdirectories represent specific species or hybrid groups, such as:
-  - `(malletti x plesseni) x malleti/`
-  - `cyrbia/`
-  - `lativitta/`
-  - `malletti/`
-  - `notabilis x lativitta/`
+  - `(malletti x plesseni) x malleti`
+  - `cyrbia`
+  - `lativitta`
+  - `malletti`
+  - `notabilis x lativitta`
 
-### `Minor_species_data/`
+### `Minor_species_data`
 - Contains data for less prominent butterfly species, which can be used for additional comparisons or exploratory analysis.
 
-### `train_test_separate/`
+### `train_test_separate`
 - Includes pre-split data for training and testing machine learning models.
 - Subdirectories correspond to species or hybrid groups and contain:
   - `train_data.json`: Metadata and paths for training images.
