@@ -1,0 +1,4983 @@
+{
+    "notabilis": [
+        [
+            18949,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notabilis/original/notabilis_18949.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notabilis/masked_img/18949.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            3884,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notabilis/original/notabilis_3884.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notabilis/masked_img/3884.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            2929,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notabilis/original/notabilis_2929.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notabilis/masked_img/2929.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "amaryllis": [
+        [
+            9593,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amaryllis/original/amaryllis_9593.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amaryllis/masked_img/9593.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            9577,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amaryllis/original/amaryllis_9577.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amaryllis/masked_img/9577.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            9573,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amaryllis/original/amaryllis_9573.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amaryllis/masked_img/9573.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "(malleti x plesseni) x plesseni": [
+        [
+            5756,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x plesseni/original/(malleti x plesseni) x plesseni_5756.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x plesseni/masked_img/5756.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            16231,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x plesseni/original/(malleti x plesseni) x plesseni_16231.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x plesseni/masked_img/16231.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            5758,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x plesseni/original/(malleti x plesseni) x plesseni_5758.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x plesseni/masked_img/5758.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ]
+    ],
+    "(plesseni x malleti) x plesseni": [
+        [
+            16578,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x plesseni/original/(plesseni x malleti) x plesseni_16578.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x plesseni/masked_img/16578.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            11090,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x plesseni/original/(plesseni x malleti) x plesseni_11090.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x plesseni/masked_img/11090.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            5607,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x plesseni/original/(plesseni x malleti) x plesseni_5607.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x plesseni/masked_img/5607.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ]
+    ],
+    "(plesseni x malleti) x (plesseni x malleti)": [
+        [
+            5657,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (plesseni x malleti)/original/(plesseni x malleti) x (plesseni x malleti)_5657.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (plesseni x malleti)/masked_img/5657.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            16827,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (plesseni x malleti)/original/(plesseni x malleti) x (plesseni x malleti)_16827.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (plesseni x malleti)/masked_img/16827.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            16654,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (plesseni x malleti)/original/(plesseni x malleti) x (plesseni x malleti)_16654.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (plesseni x malleti)/masked_img/16654.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ]
+    ],
+    "(malleti x plesseni) x (plesseni x malleti)": [
+        [
+            5625,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (plesseni x malleti)/original/(malleti x plesseni) x (plesseni x malleti)_5625.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (plesseni x malleti)/masked_img/5625.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            16627,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (plesseni x malleti)/original/(malleti x plesseni) x (plesseni x malleti)_16627.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (plesseni x malleti)/masked_img/16627.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            5655,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (plesseni x malleti)/original/(malleti x plesseni) x (plesseni x malleti)_5655.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (plesseni x malleti)/masked_img/5655.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ]
+    ],
+    "(plesseni x malleti) x (malleti x plesseni)": [
+        [
+            16599,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (malleti x plesseni)/original/(plesseni x malleti) x (malleti x plesseni)_16599.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (malleti x plesseni)/masked_img/16599.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            16202,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (malleti x plesseni)/original/(plesseni x malleti) x (malleti x plesseni)_16202.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (malleti x plesseni)/masked_img/16202.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            16206,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (malleti x plesseni)/original/(plesseni x malleti) x (malleti x plesseni)_16206.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x (malleti x plesseni)/masked_img/16206.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ]
+    ],
+    "(malleti x plesseni) x (malleti x plesseni)": [
+        [
+            5550,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (malleti x plesseni)/original/(malleti x plesseni) x (malleti x plesseni)_5550.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (malleti x plesseni)/masked_img/5550.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            17369,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (malleti x plesseni)/original/(malleti x plesseni) x (malleti x plesseni)_17369.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (malleti x plesseni)/masked_img/17369.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            16806,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (malleti x plesseni)/original/(malleti x plesseni) x (malleti x plesseni)_16806.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(malleti x plesseni) x (malleti x plesseni)/masked_img/16806.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ]
+    ],
+    "plesseni x (plesseni x malleti)": [
+        [
+            11200,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (plesseni x malleti)/original/plesseni x (plesseni x malleti)_11200.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (plesseni x malleti)/masked_img/11200.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            17397,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (plesseni x malleti)/original/plesseni x (plesseni x malleti)_17397.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (plesseni x malleti)/masked_img/17397.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ],
+        [
+            18233,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (plesseni x malleti)/original/plesseni x (plesseni x malleti)_18233.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (plesseni x malleti)/masked_img/18233.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "9": 3,
+                "10": 3,
+                "6": 4,
+                "8": 4
+            }
+        ]
+    ],
+    "nanna": [
+        [
+            42026,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nanna/original/nanna_42026.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nanna/masked_img/42026.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            41462,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nanna/original/nanna_41462.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nanna/masked_img/41462.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            41619,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nanna/original/nanna_41619.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nanna/masked_img/41619.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "melpomene x rosina": [
+        [
+            6876,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x rosina/original/melpomene x rosina_6876.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x rosina/masked_img/6876.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            10756,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x rosina/original/melpomene x rosina_10756.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x rosina/masked_img/10756.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            10888,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x rosina/original/melpomene x rosina_10888.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x rosina/masked_img/10888.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "venus": [
+        [
+            14957,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/venus/original/venus_14957.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/venus/masked_img/14957.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            15173,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/venus/original/venus_15173.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/venus/masked_img/15173.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            15171,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/venus/original/venus_15171.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/venus/masked_img/15171.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "bicoloratus": [
+        [
+            13104,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bicoloratus/original/bicoloratus_13104.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bicoloratus/masked_img/13104.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            10600,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bicoloratus/original/bicoloratus_10600.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bicoloratus/masked_img/10600.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            13088,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bicoloratus/original/bicoloratus_13088.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bicoloratus/masked_img/13088.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "hermogenes": [
+        [
+            25889,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hermogenes/original/hermogenes_25889.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hermogenes/masked_img/25889.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25851,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hermogenes/original/hermogenes_25851.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hermogenes/masked_img/25851.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25849,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hermogenes/original/hermogenes_25849.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hermogenes/masked_img/25849.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "weymeri f. weymeri": [
+        [
+            25777,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. weymeri/original/weymeri f. weymeri_25777.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. weymeri/masked_img/25777.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            26017,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. weymeri/original/weymeri f. weymeri_26017.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. weymeri/masked_img/26017.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25821,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. weymeri/original/weymeri f. weymeri_25821.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. weymeri/masked_img/25821.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "cythera": [
+        [
+            15137,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cythera/original/cythera_15137.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cythera/masked_img/15137.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            14943,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cythera/original/cythera_14943.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cythera/masked_img/14943.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            13527,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cythera/original/cythera_13527.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cythera/masked_img/13527.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "wanningeri": [
+        [
+            25813,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wanningeri/original/wanningeri_25813.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wanningeri/masked_img/25813.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25807,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wanningeri/original/wanningeri_25807.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wanningeri/masked_img/25807.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25803,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wanningeri/original/wanningeri_25803.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wanningeri/masked_img/25803.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "congener": [
+        [
+            38483,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/congener/original/congener_38483.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/congener/masked_img/38483.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            38484,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/congener/original/congener_38484.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/congener/masked_img/38484.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            10257,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/congener/original/congener_10257.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/congener/masked_img/10257.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "timareta": [
+        [
+            9402,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/timareta/original/timareta_9402.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/timareta/masked_img/9402.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            10297,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/timareta/original/timareta_10297.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/timareta/masked_img/10297.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            9414,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/timareta/original/timareta_9414.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/timareta/masked_img/9414.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "paraiya": [
+        [
+            41782,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/paraiya/original/paraiya_41782.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/paraiya/masked_img/41782.png",
+            {
+                "1": 0,
+                "8": 0,
+                "2": 1,
+                "7": 1,
+                "3": 2,
+                "6": 2,
+                "4": 3,
+                "5": 3,
+                "9": 4,
+                "12": 4,
+                "10": 5,
+                "13": 5,
+                "11": 6,
+                "14": 6
+            }
+        ],
+        [
+            41967,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/paraiya/original/paraiya_41967.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/paraiya/masked_img/41967.png",
+            {
+                "1": 0,
+                "8": 0,
+                "2": 1,
+                "7": 1,
+                "3": 2,
+                "6": 2,
+                "4": 3,
+                "5": 3,
+                "9": 4,
+                "12": 4,
+                "10": 5,
+                "13": 5,
+                "11": 6,
+                "14": 6
+            }
+        ],
+        [
+            41783,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/paraiya/original/paraiya_41783.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/paraiya/masked_img/41783.png",
+            {
+                "1": 0,
+                "8": 0,
+                "2": 1,
+                "7": 1,
+                "3": 2,
+                "6": 2,
+                "4": 3,
+                "5": 3,
+                "9": 4,
+                "12": 4,
+                "10": 5,
+                "13": 5,
+                "11": 6,
+                "14": 6
+            }
+        ]
+    ],
+    "saturata": [
+        [
+            9054,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/saturata/original/saturata_9054.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/saturata/masked_img/9054.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            9058,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/saturata/original/saturata_9058.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/saturata/masked_img/9058.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            9242,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/saturata/original/saturata_9242.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/saturata/masked_img/9242.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "cydnides": [
+        [
+            25793,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydnides/original/cydnides_25793.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydnides/masked_img/25793.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            6160,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydnides/original/cydnides_6160.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydnides/masked_img/6160.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25781,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydnides/original/cydnides_25781.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydnides/masked_img/25781.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "menapis": [
+        [
+            8485,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/menapis/original/menapis_8485.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/menapis/masked_img/8485.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            8479,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/menapis/original/menapis_8479.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/menapis/masked_img/8479.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            8477,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/menapis/original/menapis_8477.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/menapis/masked_img/8477.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "relata": [
+        [
+            9226,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/relata/original/relata_9226.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/relata/masked_img/9226.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            9208,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/relata/original/relata_9208.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/relata/masked_img/9208.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            9262,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/relata/original/relata_9262.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/relata/masked_img/9262.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "meriana": [
+        [
+            26087,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/meriana/original/meriana_26087.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/meriana/masked_img/26087.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            26095,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/meriana/original/meriana_26095.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/meriana/masked_img/26095.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            26041,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/meriana/original/meriana_26041.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/meriana/masked_img/26041.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "magdalena": [
+        [
+            38744,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/magdalena/original/magdalena_38744.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/magdalena/masked_img/38744.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            38752,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/magdalena/original/magdalena_38752.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/magdalena/masked_img/38752.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            38851,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/magdalena/original/magdalena_38851.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/magdalena/masked_img/38851.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "lativitta x notabilis": [
+        [
+            16251,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lativitta x notabilis/original/lativitta x notabilis_16251.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lativitta x notabilis/masked_img/16251.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            16274,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lativitta x notabilis/original/lativitta x notabilis_16274.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lativitta x notabilis/masked_img/16274.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            18509,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lativitta x notabilis/original/lativitta x notabilis_18509.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lativitta x notabilis/masked_img/18509.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "melpomene": [
+        [
+            6328,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene/original/melpomene_6328.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene/masked_img/6328.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            6344,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene/original/melpomene_6344.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene/masked_img/6344.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            6866,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene/original/melpomene_6866.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene/masked_img/6866.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "ecuadorensis": [
+        [
+            10193,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ecuadorensis/original/ecuadorensis_10193.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ecuadorensis/masked_img/10193.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            10195,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ecuadorensis/original/ecuadorensis_10195.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ecuadorensis/masked_img/10195.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            10197,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ecuadorensis/original/ecuadorensis_10197.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ecuadorensis/masked_img/10197.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "vicina": [
+        [
+            25873,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vicina/original/vicina_25873.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vicina/masked_img/25873.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            25871,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vicina/original/vicina_25871.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vicina/masked_img/25871.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            25879,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vicina/original/vicina_25879.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vicina/masked_img/25879.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "doris": [
+        [
+            13485,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/doris/original/doris_13485.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/doris/masked_img/13485.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            13497,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/doris/original/doris_13497.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/doris/masked_img/13497.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            13816,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/doris/original/doris_13816.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/doris/masked_img/13816.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "clysonymus": [
+        [
+            12218,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/clysonymus/original/clysonymus_12218.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/clysonymus/masked_img/12218.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            12160,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/clysonymus/original/clysonymus_12160.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/clysonymus/masked_img/12160.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            38820,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/clysonymus/original/clysonymus_38820.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/clysonymus/masked_img/38820.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "pyrrha": [
+        [
+            42062,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/pyrrha/original/pyrrha_42062.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/pyrrha/masked_img/42062.png",
+            {}
+        ],
+        [
+            42071,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/pyrrha/original/pyrrha_42071.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/pyrrha/masked_img/42071.png",
+            {}
+        ],
+        [
+            42070,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/pyrrha/original/pyrrha_42070.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/pyrrha/masked_img/42070.png",
+            {}
+        ]
+    ],
+    "hippocrenis": [
+        [
+            9184,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hippocrenis/original/hippocrenis_9184.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hippocrenis/masked_img/9184.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            9186,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hippocrenis/original/hippocrenis_9186.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hippocrenis/masked_img/9186.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            9016,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hippocrenis/original/hippocrenis_9016.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hippocrenis/masked_img/9016.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "willmotti": [
+        [
+            39064,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/willmotti/original/willmotti_39064.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/willmotti/masked_img/39064.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            39063,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/willmotti/original/willmotti_39063.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/willmotti/masked_img/39063.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            20383,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/willmotti/original/willmotti_20383.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/willmotti/masked_img/20383.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "lisethae": [
+        [
+            25733,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lisethae/original/lisethae_25733.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lisethae/masked_img/25733.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "8": 3
+            }
+        ],
+        [
+            25731,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lisethae/original/lisethae_25731.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lisethae/masked_img/25731.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "8": 3
+            }
+        ],
+        [
+            25915,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lisethae/original/lisethae_25915.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lisethae/masked_img/25915.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2,
+                "7": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "erato": [
+        [
+            11545,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/erato/original/erato_11545.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/erato/masked_img/11545.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            10536,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/erato/original/erato_10536.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/erato/masked_img/10536.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            10556,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/erato/original/erato_10556.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/erato/masked_img/10556.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "bassleri": [
+        [
+            12666,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bassleri/original/bassleri_12666.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bassleri/masked_img/12666.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            13531,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bassleri/original/bassleri_13531.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bassleri/masked_img/13531.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            12432,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bassleri/original/bassleri_12432.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bassleri/masked_img/12432.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "(lativitta x notabilis) x lativitta": [
+        [
+            17432,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x lativitta/original/(lativitta x notabilis) x lativitta_17432.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x lativitta/masked_img/17432.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            17143,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x lativitta/original/(lativitta x notabilis) x lativitta_17143.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x lativitta/masked_img/17143.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            17098,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x lativitta/original/(lativitta x notabilis) x lativitta_17098.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x lativitta/masked_img/17098.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "plesseni x malleti": [
+        [
+            19005,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x malleti/original/plesseni x malleti_19005.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x malleti/masked_img/19005.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            4149,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x malleti/original/plesseni x malleti_4149.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x malleti/masked_img/4149.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            4006,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x malleti/original/plesseni x malleti_4006.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x malleti/masked_img/4006.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ]
+    ],
+    "chestertonii": [
+        [
+            6130,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chestertonii/original/chestertonii_6130.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chestertonii/masked_img/6130.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            6079,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chestertonii/original/chestertonii_6079.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chestertonii/masked_img/6079.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            6207,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chestertonii/original/chestertonii_6207.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chestertonii/masked_img/6207.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "giulia": [
+        [
+            9979,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/giulia/original/giulia_9979.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/giulia/masked_img/9979.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            9983,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/giulia/original/giulia_9983.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/giulia/masked_img/9983.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            10143,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/giulia/original/giulia_10143.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/giulia/masked_img/10143.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "plesseni x (malleti x plesseni)": [
+        [
+            16931,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (malleti x plesseni)/original/plesseni x (malleti x plesseni)_16931.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (malleti x plesseni)/masked_img/16931.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            16699,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (malleti x plesseni)/original/plesseni x (malleti x plesseni)_16699.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (malleti x plesseni)/masked_img/16699.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            16698,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (malleti x plesseni)/original/plesseni x (malleti x plesseni)_16698.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni x (malleti x plesseni)/masked_img/16698.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ]
+    ],
+    "nesaea": [
+        [
+            41123,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nesaea/original/nesaea_41123.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nesaea/masked_img/41123.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            41122,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nesaea/original/nesaea_41122.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nesaea/masked_img/41122.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            41543,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nesaea/original/nesaea_41543.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nesaea/masked_img/41543.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "plesseni": [
+        [
+            18841,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni/original/plesseni_18841.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni/masked_img/18841.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            19070,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni/original/plesseni_19070.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni/masked_img/19070.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            3398,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni/original/plesseni_3398.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/plesseni/masked_img/3398.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "lycaste": [
+        [
+            9861,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lycaste/original/lycaste_9861.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lycaste/masked_img/9861.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            9863,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lycaste/original/lycaste_9863.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lycaste/masked_img/9863.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            10151,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lycaste/original/lycaste_10151.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lycaste/masked_img/10151.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ]
+    ],
+    "eleuchia": [
+        [
+            6140,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eleuchia/original/eleuchia_6140.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eleuchia/masked_img/6140.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            6136,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eleuchia/original/eleuchia_6136.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eleuchia/masked_img/6136.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            6227,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eleuchia/original/eleuchia_6227.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eleuchia/masked_img/6227.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "yanetta": [
+        [
+            42087,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/yanetta/original/yanetta_42087.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/yanetta/masked_img/42087.png",
+            {}
+        ],
+        [
+            41995,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/yanetta/original/yanetta_41995.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/yanetta/masked_img/41995.png",
+            {}
+        ],
+        [
+            41994,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/yanetta/original/yanetta_41994.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/yanetta/masked_img/41994.png",
+            {}
+        ]
+    ],
+    "primularis": [
+        [
+            13154,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/primularis/original/primularis_13154.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/primularis/masked_img/13154.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            12292,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/primularis/original/primularis_12292.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/primularis/masked_img/12292.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            12286,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/primularis/original/primularis_12286.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/primularis/masked_img/12286.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "hydara x amalfreda": [
+        [
+            11504,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x amalfreda/original/hydara x amalfreda_11504.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x amalfreda/masked_img/11504.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            11494,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x amalfreda/original/hydara x amalfreda_11494.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x amalfreda/masked_img/11494.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            11490,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x amalfreda/original/hydara x amalfreda_11490.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x amalfreda/masked_img/11490.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "reductimacula": [
+        [
+            14380,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/reductimacula/original/reductimacula_14380.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/reductimacula/masked_img/14380.png",
+            {}
+        ],
+        [
+            14382,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/reductimacula/original/reductimacula_14382.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/reductimacula/masked_img/14382.png",
+            {}
+        ],
+        [
+            14378,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/reductimacula/original/reductimacula_14378.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/reductimacula/masked_img/14378.png",
+            {}
+        ]
+    ],
+    "rosina": [
+        [
+            7088,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/rosina/original/rosina_7088.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/rosina/masked_img/7088.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            7180,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/rosina/original/rosina_7180.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/rosina/masked_img/7180.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            7090,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/rosina/original/rosina_7090.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/rosina/masked_img/7090.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "numata": [
+        [
+            6412,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/numata/original/numata_6412.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/numata/masked_img/6412.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            6350,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/numata/original/numata_6350.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/numata/masked_img/6350.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            6398,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/numata/original/numata_6398.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/numata/masked_img/6398.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ]
+    ],
+    "cordula": [
+        [
+            25673,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cordula/original/cordula_25673.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cordula/masked_img/25673.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            25689,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cordula/original/cordula_25689.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cordula/masked_img/25689.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            26035,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cordula/original/cordula_26035.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cordula/masked_img/26035.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "chioneus": [
+        [
+            6750,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chioneus/original/chioneus_6750.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chioneus/masked_img/6750.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            6572,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chioneus/original/chioneus_6572.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chioneus/masked_img/6572.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            8540,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chioneus/original/chioneus_8540.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/chioneus/masked_img/8540.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "demophoon": [
+        [
+            38043,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/demophoon/original/demophoon_38043.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/demophoon/masked_img/38043.png",
+            {}
+        ],
+        [
+            38367,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/demophoon/original/demophoon_38367.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/demophoon/masked_img/38367.png",
+            {}
+        ],
+        [
+            38071,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/demophoon/original/demophoon_38071.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/demophoon/masked_img/38071.png",
+            {}
+        ]
+    ],
+    "dignus": [
+        [
+            11872,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus/original/dignus_11872.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus/masked_img/11872.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            11856,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus/original/dignus_11856.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus/masked_img/11856.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            11868,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus/original/dignus_11868.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus/masked_img/11868.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "andromica": [
+        [
+            9156,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/andromica/original/andromica_9156.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/andromica/masked_img/9156.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            9276,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/andromica/original/andromica_9276.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/andromica/masked_img/9276.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            9154,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/andromica/original/andromica_9154.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/andromica/masked_img/9154.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "daetina": [
+        [
+            41503,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daetina/original/daetina_41503.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daetina/masked_img/41503.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            41502,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daetina/original/daetina_41502.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daetina/masked_img/41502.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            41510,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daetina/original/daetina_41510.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daetina/masked_img/41510.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ]
+    ],
+    "alithea": [
+        [
+            12458,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/alithea/original/alithea_12458.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/alithea/masked_img/12458.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            12446,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/alithea/original/alithea_12446.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/alithea/masked_img/12446.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            9396,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/alithea/original/alithea_9396.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/alithea/masked_img/9396.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "napoensis": [
+        [
+            13967,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/napoensis/original/napoensis_13967.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/napoensis/masked_img/13967.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            12068,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/napoensis/original/napoensis_12068.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/napoensis/masked_img/12068.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            38988,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/napoensis/original/napoensis_38988.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/napoensis/masked_img/38988.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "phyllis": [
+        [
+            42547,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/phyllis/original/phyllis_42547.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/phyllis/masked_img/42547.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            42342,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/phyllis/original/phyllis_42342.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/phyllis/masked_img/42342.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            42499,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/phyllis/original/phyllis_42499.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/phyllis/masked_img/42499.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "calathus": [
+        [
+            39092,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/calathus/original/calathus_39092.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/calathus/masked_img/39092.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            39087,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/calathus/original/calathus_39087.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/calathus/masked_img/39087.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            39091,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/calathus/original/calathus_39091.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/calathus/masked_img/39091.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "silvana": [
+        [
+            11680,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/silvana/original/silvana_11680.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/silvana/masked_img/11680.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            11615,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/silvana/original/silvana_11615.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/silvana/masked_img/11615.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            11450,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/silvana/original/silvana_11450.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/silvana/masked_img/11450.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "vulcanus": [
+        [
+            15178,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vulcanus/original/vulcanus_15178.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vulcanus/masked_img/15178.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            5961,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vulcanus/original/vulcanus_5961.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vulcanus/masked_img/5961.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            15252,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vulcanus/original/vulcanus_15252.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/vulcanus/masked_img/15252.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "melpomene x thelxiope": [
+        [
+            6436,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x thelxiope/original/melpomene x thelxiope_6436.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x thelxiope/masked_img/6436.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            8263,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x thelxiope/original/melpomene x thelxiope_8263.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x thelxiope/masked_img/8263.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            7884,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x thelxiope/original/melpomene x thelxiope_7884.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/melpomene x thelxiope/masked_img/7884.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ]
+    ],
+    "linaresi": [
+        [
+            25835,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/linaresi/original/linaresi_25835.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/linaresi/masked_img/25835.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            25903,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/linaresi/original/linaresi_25903.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/linaresi/masked_img/25903.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            25975,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/linaresi/original/linaresi_25975.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/linaresi/masked_img/25975.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "malleti x (plesseni x malleti)": [
+        [
+            5738,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x (plesseni x malleti)/original/malleti x (plesseni x malleti)_5738.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x (plesseni x malleti)/masked_img/5738.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            5807,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x (plesseni x malleti)/original/malleti x (plesseni x malleti)_5807.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x (plesseni x malleti)/masked_img/5807.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            17293,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x (plesseni x malleti)/original/malleti x (plesseni x malleti)_17293.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x (plesseni x malleti)/masked_img/17293.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "thelxinoe": [
+        [
+            26062,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/thelxinoe/original/thelxinoe_26062.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/thelxinoe/masked_img/26062.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            26060,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/thelxinoe/original/thelxinoe_26060.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/thelxinoe/masked_img/26060.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            9581,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/thelxinoe/original/thelxinoe_9581.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/thelxinoe/masked_img/9581.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "ssp.nov.P": [
+        [
+            3569,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ssp.nov.P/original/ssp.nov.P_3569.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ssp.nov.P/masked_img/3569.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            25439,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ssp.nov.P/original/ssp.nov.P_25439.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ssp.nov.P/masked_img/25439.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            3571,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ssp.nov.P/original/ssp.nov.P_3571.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/ssp.nov.P/masked_img/3571.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "hydara x petiverana": [
+        [
+            10844,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x petiverana/original/hydara x petiverana_10844.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x petiverana/masked_img/10844.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            10742,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x petiverana/original/hydara x petiverana_10742.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x petiverana/masked_img/10742.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            10768,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x petiverana/original/hydara x petiverana_10768.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara x petiverana/masked_img/10768.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "petiverana": [
+        [
+            10828,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/petiverana/original/petiverana_10828.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/petiverana/masked_img/10828.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            10792,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/petiverana/original/petiverana_10792.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/petiverana/masked_img/10792.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            10746,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/petiverana/original/petiverana_10746.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/petiverana/masked_img/10746.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "etylus": [
+        [
+            10221,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/etylus/original/etylus_10221.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/etylus/masked_img/10221.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            10225,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/etylus/original/etylus_10225.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/etylus/masked_img/10225.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            10223,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/etylus/original/etylus_10223.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/etylus/masked_img/10223.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "hierax": [
+        [
+            14115,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hierax/original/hierax_14115.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hierax/masked_img/14115.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            14119,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hierax/original/hierax_14119.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hierax/masked_img/14119.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            14121,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hierax/original/hierax_14121.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hierax/masked_img/14121.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "daeta": [
+        [
+            42398,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daeta/original/daeta_42398.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daeta/masked_img/42398.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            42007,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daeta/original/daeta_42007.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/daeta/masked_img/42007.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ]
+    ],
+    "amalfreda": [
+        [
+            11482,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amalfreda/original/amalfreda_11482.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amalfreda/masked_img/11482.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            11516,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amalfreda/original/amalfreda_11516.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amalfreda/masked_img/11516.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            11484,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amalfreda/original/amalfreda_11484.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/amalfreda/masked_img/11484.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "laphria": [
+        [
+            41771,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/laphria/original/laphria_41771.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/laphria/masked_img/41771.png",
+            {}
+        ],
+        [
+            41770,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/laphria/original/laphria_41770.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/laphria/masked_img/41770.png",
+            {}
+        ]
+    ],
+    "salapia": [
+        [
+            11742,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/salapia/original/salapia_11742.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/salapia/masked_img/11742.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 4,
+                "10": 4
+            }
+        ],
+        [
+            11740,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/salapia/original/salapia_11740.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/salapia/masked_img/11740.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 4,
+                "10": 4
+            }
+        ],
+        [
+            8718,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/salapia/original/salapia_8718.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/salapia/masked_img/8718.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2,
+                "7": 3,
+                "8": 3,
+                "9": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "sprucei": [
+        [
+            12308,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sprucei/original/sprucei_12308.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sprucei/masked_img/12308.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            14262,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sprucei/original/sprucei_14262.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sprucei/masked_img/14262.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            14338,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sprucei/original/sprucei_14338.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sprucei/masked_img/14338.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "lysimnia": [
+        [
+            42407,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lysimnia/original/lysimnia_42407.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lysimnia/masked_img/42407.png",
+            {
+                "1": 0,
+                "5": 1,
+                "2": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            42390,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lysimnia/original/lysimnia_42390.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lysimnia/masked_img/42390.png",
+            {
+                "1": 0,
+                "5": 1,
+                "2": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ],
+        [
+            42163,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lysimnia/original/lysimnia_42163.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lysimnia/masked_img/42163.png",
+            {
+                "1": 0,
+                "5": 1,
+                "2": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "10": 3,
+                "8": 4,
+                "11": 4,
+                "9": 5,
+                "12": 5
+            }
+        ]
+    ],
+    "sotericus": [
+        [
+            13848,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sotericus/original/sotericus_13848.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sotericus/masked_img/13848.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            39263,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sotericus/original/sotericus_39263.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sotericus/masked_img/39263.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            14141,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sotericus/original/sotericus_14141.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sotericus/masked_img/14141.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "nigrippus": [
+        [
+            12674,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nigrippus/original/nigrippus_12674.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nigrippus/masked_img/12674.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            13377,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nigrippus/original/nigrippus_13377.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nigrippus/masked_img/13377.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            13375,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nigrippus/original/nigrippus_13375.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/nigrippus/masked_img/13375.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "cydno": [
+        [
+            25667,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydno/original/cydno_25667.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydno/masked_img/25667.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25661,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydno/original/cydno_25661.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydno/masked_img/25661.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25679,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydno/original/cydno_25679.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/cydno/masked_img/25679.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "(latRo x notabilis) x notabilis": [
+        [
+            15699,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(latRo x notabilis) x notabilis/original/(latRo x notabilis) x notabilis_15699.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(latRo x notabilis) x notabilis/masked_img/15699.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            15698,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(latRo x notabilis) x notabilis/original/(latRo x notabilis) x notabilis_15698.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(latRo x notabilis) x notabilis/masked_img/15698.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            5302,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(latRo x notabilis) x notabilis/original/(latRo x notabilis) x notabilis_5302.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(latRo x notabilis) x notabilis/masked_img/5302.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "(lativitta x notabilis) x notabilis": [
+        [
+            11024,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x notabilis/original/(lativitta x notabilis) x notabilis_11024.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x notabilis/masked_img/11024.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            17364,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x notabilis/original/(lativitta x notabilis) x notabilis_17364.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x notabilis/masked_img/17364.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            17545,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x notabilis/original/(lativitta x notabilis) x notabilis_17545.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(lativitta x notabilis) x notabilis/masked_img/17545.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "weymeri": [
+        [
+            6236,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri/original/weymeri_6236.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri/masked_img/6236.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25641,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri/original/weymeri_25641.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri/masked_img/25641.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            6268,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri/original/weymeri_6268.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri/masked_img/6268.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "weymeri f. gustavi": [
+        [
+            26025,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. gustavi/original/weymeri f. gustavi_26025.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. gustavi/masked_img/26025.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            26029,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. gustavi/original/weymeri f. gustavi_26029.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. gustavi/masked_img/26029.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            25645,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. gustavi/original/weymeri f. gustavi_25645.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/weymeri f. gustavi/masked_img/25645.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "bellula": [
+        [
+            11796,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bellula/original/bellula_11796.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bellula/masked_img/11796.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25691,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bellula/original/bellula_25691.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bellula/masked_img/25691.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            11840,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bellula/original/bellula_11840.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/bellula/masked_img/11840.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "flavescens": [
+        [
+            38932,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/flavescens/original/flavescens_38932.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/flavescens/masked_img/38932.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            39188,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/flavescens/original/flavescens_39188.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/flavescens/masked_img/39188.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            11528,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/flavescens/original/flavescens_11528.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/flavescens/masked_img/11528.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "panamensis": [
+        [
+            10091,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/panamensis/original/panamensis_10091.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/panamensis/masked_img/10091.png",
+            {
+                "1": 0,
+                "8": 0,
+                "2": 1,
+                "7": 1,
+                "3": 2,
+                "6": 2,
+                "4": 3,
+                "5": 3,
+                "9": 4,
+                "12": 4,
+                "10": 5,
+                "13": 5,
+                "11": 6,
+                "14": 6
+            }
+        ],
+        [
+            10087,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/panamensis/original/panamensis_10087.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/panamensis/masked_img/10087.png",
+            {
+                "1": 0,
+                "8": 0,
+                "2": 1,
+                "7": 1,
+                "3": 2,
+                "6": 2,
+                "4": 3,
+                "5": 3,
+                "9": 4,
+                "12": 4,
+                "10": 5,
+                "13": 5,
+                "11": 6,
+                "14": 6
+            }
+        ],
+        [
+            10083,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/panamensis/original/panamensis_10083.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/panamensis/masked_img/10083.png",
+            {
+                "1": 0,
+                "8": 0,
+                "2": 1,
+                "7": 1,
+                "3": 2,
+                "6": 2,
+                "4": 3,
+                "5": 3,
+                "9": 4,
+                "12": 4,
+                "10": 5,
+                "13": 5,
+                "11": 6,
+                "14": 6
+            }
+        ]
+    ],
+    "tristero": [
+        [
+            11708,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/tristero/original/tristero_11708.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/tristero/masked_img/11708.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            11712,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/tristero/original/tristero_11712.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/tristero/masked_img/11712.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            11710,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/tristero/original/tristero_11710.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/tristero/masked_img/11710.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "zelinde": [
+        [
+            25695,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/zelinde/original/zelinde_25695.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/zelinde/masked_img/25695.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25603,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/zelinde/original/zelinde_25603.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/zelinde/masked_img/25603.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25693,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/zelinde/original/zelinde_25693.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/zelinde/masked_img/25693.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "hydara": [
+        [
+            10117,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara/original/hydara_10117.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara/masked_img/10117.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            10886,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara/original/hydara_10886.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara/masked_img/10886.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            6554,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara/original/hydara_6554.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hydara/masked_img/6554.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "abida": [
+        [
+            9925,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/abida/original/abida_9925.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/abida/masked_img/9925.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            9927,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/abida/original/abida_9927.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/abida/masked_img/9927.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            9897,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/abida/original/abida_9897.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/abida/masked_img/9897.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "euphrasius": [
+        [
+            8712,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/euphrasius/original/euphrasius_8712.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/euphrasius/masked_img/8712.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            10610,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/euphrasius/original/euphrasius_10610.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/euphrasius/masked_img/10610.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            10606,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/euphrasius/original/euphrasius_10606.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/euphrasius/masked_img/10606.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "idae": [
+        [
+            9867,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/idae/original/idae_9867.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/idae/masked_img/9867.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            9957,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/idae/original/idae_9957.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/idae/masked_img/9957.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            9865,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/idae/original/idae_9865.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/idae/masked_img/9865.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "6": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "sara": [
+        [
+            14147,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sara/original/sara_14147.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sara/masked_img/14147.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            26168,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sara/original/sara_26168.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sara/masked_img/26168.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            26148,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sara/original/sara_26148.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sara/masked_img/26148.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "(plesseni x malleti) x malleti": [
+        [
+            16479,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x malleti/original/(plesseni x malleti) x malleti_16479.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x malleti/masked_img/16479.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "7": 2,
+                "8": 2,
+                "5": 3,
+                "6": 3
+            }
+        ],
+        [
+            16647,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x malleti/original/(plesseni x malleti) x malleti_16647.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x malleti/masked_img/16647.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "7": 2,
+                "8": 2,
+                "5": 3,
+                "6": 3
+            }
+        ],
+        [
+            17111,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x malleti/original/(plesseni x malleti) x malleti_17111.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/(plesseni x malleti) x malleti/masked_img/17111.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "7": 2,
+                "8": 2,
+                "5": 3,
+                "6": 3
+            }
+        ]
+    ],
+    "malleti x plesseni": [
+        [
+            15667,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x plesseni/original/malleti x plesseni_15667.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x plesseni/masked_img/15667.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            15670,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x plesseni/original/malleti x plesseni_15670.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x plesseni/masked_img/15670.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            15286,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x plesseni/original/malleti x plesseni_15286.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x plesseni/masked_img/15286.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "florencia": [
+        [
+            25999,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/florencia/original/florencia_25999.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/florencia/masked_img/25999.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            25707,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/florencia/original/florencia_25707.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/florencia/masked_img/25707.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            25711,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/florencia/original/florencia_25711.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/florencia/masked_img/25711.png",
+            {
+                "1": 0,
+                "3": 0,
+                "2": 1,
+                "4": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "decumana": [
+        [
+            10011,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/decumana/original/decumana_10011.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/decumana/masked_img/10011.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "6": 1,
+                "4": 2,
+                "7": 2,
+                "5": 3,
+                "8": 3
+            }
+        ],
+        [
+            8556,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/decumana/original/decumana_8556.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/decumana/masked_img/8556.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "6": 1,
+                "4": 2,
+                "7": 2,
+                "5": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "macrinus": [
+        [
+            9889,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/macrinus/original/macrinus_9889.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/macrinus/masked_img/9889.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            9887,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/macrinus/original/macrinus_9887.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/macrinus/masked_img/9887.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "aglaope": [
+        [
+            9732,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/aglaope/original/aglaope_9732.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/aglaope/masked_img/9732.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            9706,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/aglaope/original/aglaope_9706.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/aglaope/masked_img/9706.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "eximius": [
+        [
+            12456,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eximius/original/eximius_12456.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eximius/masked_img/12456.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ],
+        [
+            12452,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eximius/original/eximius_12452.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/eximius/masked_img/12452.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "8": 2,
+                "6": 3,
+                "9": 3,
+                "7": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "isthmia": [
+        [
+            8662,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/isthmia/original/isthmia_8662.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/isthmia/masked_img/8662.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "4": 1,
+                "3": 2,
+                "5": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            8642,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/isthmia/original/isthmia_8642.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/isthmia/masked_img/8642.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "4": 1,
+                "3": 2,
+                "5": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ],
+    "carbo": [
+        [
+            9827,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/carbo/original/carbo_9827.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/carbo/masked_img/9827.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            25341,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/carbo/original/carbo_25341.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/carbo/masked_img/25341.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "malleti x vicina": [
+        [
+            14366,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x vicina/original/malleti x vicina_14366.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x vicina/masked_img/14366.png",
+            {}
+        ],
+        [
+            14368,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x vicina/original/malleti x vicina_14368.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/malleti x vicina/masked_img/14368.png",
+            {}
+        ]
+    ],
+    "lyra": [
+        [
+            9158,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lyra/original/lyra_9158.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lyra/masked_img/9158.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            9160,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lyra/original/lyra_9160.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lyra/masked_img/9160.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "agna": [
+        [
+            9891,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/agna/original/agna_9891.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/agna/masked_img/9891.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            8638,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/agna/original/agna_8638.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/agna/masked_img/8638.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "lenaeus": [
+        [
+            10614,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lenaeus/original/lenaeus_10614.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lenaeus/masked_img/10614.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            10618,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lenaeus/original/lenaeus_10618.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/lenaeus/masked_img/10618.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "wallacei": [
+        [
+            6400,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wallacei/original/wallacei_6400.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wallacei/masked_img/6400.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ],
+        [
+            11530,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wallacei/original/wallacei_11530.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/wallacei/masked_img/11530.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "corena": [
+        [
+            39184,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/corena/original/corena_39184.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/corena/masked_img/39184.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ],
+        [
+            39183,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/corena/original/corena_39183.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/corena/masked_img/39183.png",
+            {
+                "1": 0,
+                "4": 0,
+                "2": 1,
+                "3": 1,
+                "5": 2,
+                "7": 2,
+                "6": 3,
+                "8": 3
+            }
+        ]
+    ],
+    "sapho": [
+        [
+            6674,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sapho/original/sapho_6674.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sapho/masked_img/6674.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            6346,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sapho/original/sapho_6346.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/sapho/masked_img/6346.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "notilla": [
+        [
+            9923,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notilla/original/notilla_9923.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notilla/masked_img/9923.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ],
+        [
+            9921,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notilla/original/notilla_9921.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/notilla/masked_img/9921.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "5": 1,
+                "4": 2,
+                "6": 2
+            }
+        ]
+    ],
+    "dignus x lativitta": [
+        [
+            11864,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus x lativitta/original/dignus x lativitta_11864.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus x lativitta/masked_img/11864.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ],
+        [
+            11860,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus x lativitta/original/dignus x lativitta_11860.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/dignus x lativitta/masked_img/11860.png",
+            {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1
+            }
+        ]
+    ],
+    "hygiana": [
+        [
+            13457,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hygiana/original/hygiana_13457.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hygiana/masked_img/13457.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ],
+        [
+            13455,
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hygiana/original/hygiana_13455.png",
+            "/fs/scratch/PAS2099/DataSet_Butterfly/Minor_species_data/hygiana/masked_img/13455.png",
+            {
+                "1": 0,
+                "6": 0,
+                "2": 1,
+                "5": 1,
+                "3": 2,
+                "4": 2,
+                "7": 3,
+                "9": 3,
+                "8": 4,
+                "10": 4
+            }
+        ]
+    ]
+}
