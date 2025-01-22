@@ -58,12 +58,3 @@ This Python script demonstrates how to read the dataset, download images, and ov
 
 #### 6. Error Handling
 - Ensures proper file existence and handles mismatches in image and mask sizes.
-
----
-
-## How to Run the Script
-
-### Prerequisites
-- Install the required Python libraries:
-  ```bash
-  pip install matplotlib pillow numpy
