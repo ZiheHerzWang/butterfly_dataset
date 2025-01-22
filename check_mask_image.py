@@ -9,15 +9,14 @@ from PIL import Image
 import numpy as np
 
 # Path to the JSON file
-json_file_path = "/fs/scratch/PAS2099/DataSet_Butterfly/train_test_separate/(malleti x plesseni) x malleti/test_data.json"
+json_file_path = "/Users/macbook/Documents/GitHub/butterfly_dataset/train_test_separate/cyrbia/test_data.json"
 
 # Load the JSON data
 with open(json_file_path, "r") as file:
     data = json.load(file)
 
 # Base directory for relative paths
-base_dir = "/fs/scratch/PAS2099/"
-
+base_dir = "/Users/macbook/Documents/GitHub/butterfly_dataset/"
 # Randomly select 10 elements from the data
 random_elements = random.sample(data, 10)
 
